@@ -11,7 +11,7 @@ For optimal growth, plants need the right attention and care, which includes rou
 # 2.0 System Architecture
 
 ![1](https://github.com/zuhairie0101/merlionsrepo/assets/111034231/465ec732-5140-42ed-900a-15196c9ecc50)
-
+The proposed system architecture includes a Wifi UNO-based ESP32 microcontroller, as well as Soil Moisture Sensor and DHT22 sensors for soil, temperature, and humidity monitoring. The data received by the sensors is then sent to a cloud server using the MQTT protocol, where it is stored in an InfluxDB database. Finally, the data is visualised using a Grafana dashboard, which provides real-time insights.
 
 # 3.0 Sensors
 
