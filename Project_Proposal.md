@@ -13,6 +13,13 @@ For optimal growth, plants need the right attention and care, which includes rou
 
 # 3.0 Sensors
 
+![image](https://github.com/zuhairie0101/merlionsrepo/assets/81571413/66d7bd18-fdea-46b6-9e82-2ae27f4ae166)
+
+DHT22 Module (Temperature & Humidity)
+
+![image](https://github.com/zuhairie0101/merlionsrepo/assets/81571413/71d1d291-3405-40e0-8c7f-9d10d7d7de42)
+
+Soil Moisture Sensor
 
 # 4.0 Cloud Platform
 # 4.1 PythonAnywhere
