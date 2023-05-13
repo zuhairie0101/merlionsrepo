@@ -1,5 +1,7 @@
 # SMIRKING MERLIONS
 
+![image](https://github.com/zuhairie0101/merlionsrepo/assets/81571413/4d521ccd-2532-49ac-87a5-aa51b92a6d94)
+
 
 # Title: Plant Monitoring System
 
