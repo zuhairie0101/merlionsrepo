@@ -10,6 +10,8 @@ For optimal growth, plants need the right attention and care, which includes rou
 
 # 2.0 System Architecture
 
+![1](https://github.com/zuhairie0101/merlionsrepo/assets/111034231/465ec732-5140-42ed-900a-15196c9ecc50)
+
 
 # 3.0 Sensors
 
