@@ -1,14 +1,20 @@
-SMIKING MERLIONS
+# SMIRKING MERLIONS
 
-Title: Smart Plant Watering System
 
-1.0 Problem Statement
+# Title: Plant Monitoring System
 
-2.0 System Architecture
 
-3.0 Sensors
+# 1.0 Problem Statement
 
-4.0 Cloud Platform
 
-5.0 Dashboard
+# 2.0 System Architecture
+
+
+# 3.0 Sensors
+
+
+# 4.0 Cloud Platform
+
+
+# 5.0 Dashboard
 
