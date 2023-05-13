@@ -1,6 +1,14 @@
 SMIKING MERLIONS
 
-Smart Home
-hydroponic
-![images](https://github.com/zuhairie0101/merlionsrepo/assets/81571413/bf5b2f30-8ae8-42e5-b894-8b72a872dea7)
+Title: Smart Plant Watering System
+
+1.0 Problem Statement
+
+2.0 System Architecture
+
+3.0 Sensors
+
+4.0 Cloud Platform
+
+5.0 Dashboard
 
