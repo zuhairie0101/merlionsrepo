@@ -29,7 +29,8 @@ Soil Moisture Sensor
 # 4.1 PythonAnywhere
 PythonAnywhere enables users to create and execute Python code in the cloud, making it especially beneficial for Internet of Things (IoT) projects that demand a dependable and persistent connection. A variety of pre-installed libraries and packages, including those for IoT-related activities like data processing and visualisation, are also available through PythonAnywhere. Additionally, it supports a wide range of widely used IoT hardware components, making it simple to connect to sensors and other devices. Finally, PythonAnywhere provides a straightforward user interface that makes managing and deploying IoT apps simple.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hqlntHXRmWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/hqlntHXRmWw 
+
 
 # 5.0 Dashboard
 
