@@ -7,7 +7,7 @@ For optimal growth, plants need the right attention and care, which includes rou
 
 # 2.0 System Architecture
 
-![image](https://keep.google.com/u/1/media/v2/1LZCL7e_iAe_QZQ8rc7e8bhpmyTCw-3_ceYJFiMBi1bZc6KaqOpozQ-dxKdK7/1QwXrytQLDoQDSXEu8fvNLZJ1zDlcfmBMVajr8eN0Kz4NIWSdHopVECoO0gQD?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
+![image](file:///C:/Users/Asus/Downloads/unnamed.png)
 
 The proposed system architecture includes a Wemos D1 ESP32 microcontroller, as well as Soil Moisture Sensor and DHT22 sensors for soil, temperature, and humidity monitoring. The data received by the sensors is then sent to a SQL server using the MQTT protocol, where it is stored in a local database. Finally, the data is visualized using a Grafana dashboard, which provides real-time insights.
 
